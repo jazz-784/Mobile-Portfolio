@@ -68,6 +68,8 @@ After you're finished please remove all the comments and instructions!
 - Created New Branch
 - config linters
 - added styling in the portfolio
+- working with template to complete
+- completed headline section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
