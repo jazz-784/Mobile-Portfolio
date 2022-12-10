@@ -1,49 +1,177 @@
-# mobile-portfolio
+<a name="readme-top"></a>
 
-## Learning objectives
-- Understand how to parse a Figma design to create a UI.
-- Flexbox to place elements in the page.
-- Build a personal portfolio site.
-- Use images and backgrounds to enhance the look of the website.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## Description
+Modify this file to match your project and remove sections that don't apply.
 
-For the first milestone in the process of creating your portfolio website, you will:
-
-- set up a new repository and prepare it for development using best practices (e.g. linters).
-- build the first 2 sections of the mobile website using the template you chose in the previous step.
-
-
-### General requirements
-
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config):
-    - Linter should be set up correctly for this repository.
-    - Linter result should be green.
-    - There should be no custom changes to linter config.
-- Make sure that you used correct [GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md):
-    - README file should be descriptive.
-    - Commit messages should be meaningful.
-    - Pull Request should have a descriptive title explaining what changes are inside.
-    - Pull Request should have a short summary describing introduced changes in more detail.
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md):
-    - Branch name should describe a feature or action (e.g. 'created_sidebar' or 'added_comments_section').
-    - Pull Request is made from 'feature branch' into the `main` branch.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Contributing
+- Show your support
 
 
-### HTML/CSS requirements
+After you're finished please remove all the comments and instructions!
+-->
 
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+<div align="center">
 
-### Project requirements
-- For this project, you should use the [HTML&CSS linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
-- The 2 sections you need to build for this project are:
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-    - the toolbar (or header):
-    <p align="center">
-     <img src="./images/m1_setup/toolbar-mobile.png" alt="Toolbar" />
-    </p>
+  <h3><b>Hello-Microverse README</b></h3>
 
-    - the headline section (right after the header):
-    <p align="center">
-      <img src="./images/m1_setup/headline-mobile.png" alt="Headline" />
-    </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Mobile-portfolio <a name="about-project"></a>
+
+> the second project of the block with many thing to learn for beginners.
+
+## 🛠 Built With <a name="built-with"></a>
+
+- HTML, CSS
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- Created New Branch
+- config linters
+- added styling in the portfolio
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started
+To clone the repository in local environment try following steps.
+
+### Prerequisites
+
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Node.js.
+
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
+
+Likewise for Node.js and npm for package installation.
+```
+$ node --version && npm --version
+```
+### Setup
+
+Clone the repository using [this link](https://github.com/PrangonGhose/My-Portfolio.git)
+
+### Install
+
+In the terminal, go to your file directory and run this command.
+
+```
+$ git clone git@github.com:mavericks-db/portfolio.git
+```
+
+### Usage
+
+This website is applicable for both mobile and desktop version.
+
+### Run tests
+
+### Deployment
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Nazish Qureshi**
+
+- GitHub: [@Jazz-784}(https://github.com/Jazz-784)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Styling of the webpage**
+- [ ] **Animation to add or remove functionality**
+- [ ] **Adding responsiveness**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank:
+- [Microverse](https://www.microverse.org/)
+- Code Reviewers
+- Coding Partners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
